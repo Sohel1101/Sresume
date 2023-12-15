@@ -1,0 +1,35 @@
+.Skills{
+    padding-top: 40px;
+    background-color: azure;
+    color: white;
+    height: auto;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+
+}
+
+#sk{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.Skills h1{
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 40px;
+    color: black;
+    
+}
+
+.skitems{
+    background-color: lightpink;
+    color: black;
+    padding: 20px 100px 20px 100px;
+    
+    border: 1px solid black;
+    margin-top: 20px;
+}
