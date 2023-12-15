@@ -1,0 +1,34 @@
+
+nav{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    background-color: black;
+    font-size: 20px;
+}
+
+#iconsn{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    
+}
+
+#iconsn i{
+    /* padding-top: 5px; */
+    font-size: 20px;
+}
+
+#ss{
+    font-size: 100px;
+   background-image: linear-gradient(red,violet,indigo,blue,green,pink,crimson,red);
+   /* -webkit-background-clip: text; */
+   /* -moz-background-clip: text; */
+   background-clip: text;
+   color: transparent;
+   font-weight: bolder;
+}
